@@ -1,0 +1,1 @@
+{"tests":[{"category":"public","input":"1 2 4 3 7 90\n","output":"[1, 2, 3, 4, 7, 90]\n"},{"category":"public","input":"5 7 8 19 -4 4 1 6 8 12 81 3\n","output":"[-4, 5, 7, 8, 19, 4, 1, 6, 8, 12, 81, 3]\n"}]}

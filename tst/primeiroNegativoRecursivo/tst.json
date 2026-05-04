@@ -1,0 +1,1 @@
+{"tests":[{"category":"public","input":"5 7 8 19 -4 67 -89 -99\n","output":"-4\n"},{"category":"public","input":"5 7 8 19 6 89 2\n","output":"-\n"}]}
